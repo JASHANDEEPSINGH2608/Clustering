@@ -1,4 +1,4 @@
-# README: Clustering Analysis with Multiple Preprocessing Scenarios
+# Clustering Analysis with Multiple Preprocessing Scenarios
 
 This project demonstrates clustering analysis on a dataset with various preprocessing pipelines and clustering algorithms. The metrics used to evaluate clustering performance include the Silhouette Score, Calinski-Harabasz Score, and Davies-Bouldin Score. Results are saved in an Excel file for easy interpretation.
 
